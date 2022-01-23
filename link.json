@@ -1,37 +1,25 @@
 [
   {
-    "class_name": "友情鏈接",
-    "class_desc": "那些人，那些事",
+    "class_name": "作品連結",
+    "class_desc": "關於自己做的一些小作品",
     "link_list": [
       {
-        "name": "Hexo",
-        "link": "https://hexo.io/zh-tw/",
-        "avatar": "https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg",
-        "descr": "快速、簡單且強大的網誌框架"
+        "name": "LoveBoat",
+        "link": "https://pinkpika.github.io/LoveBoat/",
+        "avatar": "",
+        "descr": "果凍咩咩的愛之旅程-愛之船"
       }
     ]
   },
   {
-    "class_name": "網站",
-    "class_desc": "值得推薦的網站",
+    "class_name": "iOS 學習網站",
+    "class_desc": "學習 iOS 路上值得推薦的網站",
     "link_list": [
       {
-        "name": "Youtube",
-        "link": "https://www.youtube.com/",
-        "avatar": "https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png",
-        "descr": "視頻網站"
-      },
-      {
-        "name": "Weibo",
-        "link": "https://www.weibo.com/",
-        "avatar": "https://i.loli.net/2020/05/14/TLJBum386vcnI1P.png",
-        "descr": "中國最大社交分享平臺"
-      },
-      {
-        "name": "Twitter",
-        "link": "https://twitter.com/",
-        "avatar": "https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png",
-        "descr": "社交分享平臺"
+        "name": "13 的 Apple 開發者週報",
+        "link": "https://ethanhuang13.substack.com/",
+        "avatar": "",
+        "descr": "每週追蹤最新的 Apple/iOS 開發者相關資訊"
       }
     ]
   }
