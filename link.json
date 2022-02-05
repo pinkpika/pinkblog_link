@@ -22,5 +22,29 @@
         "descr": "每週追蹤最新的 Apple/iOS 開發者相關資訊"
       }
     ]
+  },
+  {
+    "class_name": "Taiwan iOS 社群活動",
+    "class_desc": "參加線下活動面對面認識大家",
+    "link_list": [
+      {
+        "name": "Cocoaheads Taipei",
+        "link": "https://www.facebook.com/groups/cocoaheads.taipei/",
+        "avatar": "",
+        "descr": ""
+      },
+      {
+        "name": "Swift Taipei",
+        "link": "https://www.meetup.com/Swift-Taipei-User-Group/",
+        "avatar": "",
+        "descr": ""
+      },
+      {
+        "name": "iOS ＠ Taipei",
+        "link": "https://www.facebook.com/groups/ios.taipei/",
+        "avatar": "",
+        "descr": ""
+      }
+    ]
   }
 ]
