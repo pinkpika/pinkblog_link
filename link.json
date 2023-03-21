@@ -1,20 +1,14 @@
 [
   {
-    "class_name": "作品連結",
-    "class_desc": "關於自己做的一些小作品",
-    "link_list": [
-      {
-        "name": "LoveBoat",
-        "link": "https://pinkpika.github.io/LoveBoat/",
-        "avatar": "https://pinkpika.github.io/LoveBoat/favicon.png",
-        "descr": "網頁小遊戲"
-      }
-    ]
-  },
-  {
     "class_name": "工程師之友",
     "class_desc": "許多優秀工程師的個人網站",
     "link_list": [
+      {
+        "name": "灆洢Maplewing",
+        "link": "https://knightzone.studio/",
+        "avatar": "https://i0.wp.com/knightzone.studio/wp-content/uploads/2020/08/cropped-weblogo.png",
+        "descr": "翼世界夢想領域"
+      },
       {
         "name": "MarvinLin",
         "link": "https://moonandeye.github.io/",
