@@ -7,7 +7,25 @@
         "name": "LoveBoat",
         "link": "https://pinkpika.github.io/LoveBoat/",
         "avatar": "https://pinkpika.github.io/LoveBoat/favicon.png",
-        "descr": "果凍咩咩的愛之旅程-愛之船"
+        "descr": "網頁小遊戲"
+      }
+    ]
+  },
+  {
+    "class_name": "工程師之友",
+    "class_desc": "許多優秀工程師的個人網站",
+    "link_list": [
+      {
+        "name": "MarvinLin",
+        "link": "https://moonandeye.github.io/",
+        "avatar": "https://moonandeye.github.io/assets/author/avatar.jpg",
+        "descr": ""
+      },
+      {
+        "name": "Mikimoto",
+        "link": "https://mikimoto.github.io/",
+        "avatar": "https://www.gravatar.com/avatar/3f1ad6d98155d3ee7a63bc73069f7ce8?s=110",
+        "descr": ""
       }
     ]
   },
@@ -16,10 +34,16 @@
     "class_desc": "學習 iOS 路上值得推薦的網站",
     "link_list": [
       {
-        "name": "13 的 Apple 開發者週報",
+        "name": "13開發者週報",
         "link": "https://ethanhuang13.substack.com/",
-        "avatar": "https://cdn.substack.com/icons/substack/apple-touch-icon-120x120.png",
-        "descr": "每週追蹤最新的 Apple/iOS 開發者相關資訊"
+        "avatar": "https://substackcdn.com/image/fetch/w_264,c_limit,f_webp,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F60af35b8-8dbb-47b0-b0cf-7626a48ba296_1280x1280.png",
+        "descr": ""
+      },
+      {
+        "name": "波報",
+        "link": "https://pofat.substack.com/",
+        "avatar": "https://substackcdn.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F95ca4f9c-cedd-494f-add0-94ddaaf7c3a9_1280x1280.png",
+        "descr": ""
       }
     ]
   },
